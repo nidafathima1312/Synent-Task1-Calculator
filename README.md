@@ -26,7 +26,7 @@ This application provides a user-friendly terminal interface for basic arithmeti
 ![Division Test](screenchot-add.png)
 
 ### 3. Graceful Exit
-![Exit Test](ss exit.png)
+![Exit Test](ssexit.png)
 
 ## 🚀 How to Run
 - **Prerequisites:** Ensure Python 3.x is installed on your machine.
